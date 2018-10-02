@@ -1,7 +1,7 @@
 # UnityScritping
 Basic scripts to get started with scripting in Unity 3D
 
-## Godd scripting resources
+## Good scripting resources
 
 > [Lynda C# for Unity Game Development](https://www.lynda.com/Unity-tutorials/Learning-C-Unity-Game-Development/540497-2.html?org=saic.edu)
 
